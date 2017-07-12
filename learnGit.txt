@@ -2,3 +2,5 @@ How to learn Git
 update file!!
 
 add this words!
+
+新增
